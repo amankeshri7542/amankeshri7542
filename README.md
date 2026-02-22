@@ -2,17 +2,13 @@
 AWS Certified Solutions Architect – Associate ☁️🚀 passionate about building scalable, secure, real-world cloud systems.<br>
 
 Cloud + Backend engineer who enjoys turning ideas into production-ready applications ⚙️🔥<br>
-
 Hands-on with AWS (EC2, Lambda, DynamoDB, IAM) and modern JS stacks like Node.js & Next.js 💻✨<br>
-
 Love designing serverless architectures and clean REST APIs that actually perform under load 📈⚡<br>
-
 CI/CD, Docker, monitoring, and security are not “extras” for me — they’re default mode 🛠️🔐<br>
-
 I blend Cloud, DevOps, and a bit of AI to build systems that are smart, efficient, and built to scale 🤖☁️<br>
-
 Always learning, always shipping, always optimizing 🚀📦<br>
 
+Portfolio Site: www.amankeshri.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-kumar-keshri/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amankeshri7479@gmail.com) 
