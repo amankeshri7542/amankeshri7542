@@ -1,5 +1,17 @@
 # 💫 About Me:
-Working on Full-Stack development with AWS cloud technologies.<br>Recently got the AWS SAA C03 certification. <br>Deployed many projects using Docker and kubernetes. <br>used over 50+ AWS Services. <br>
+AWS Certified Solutions Architect – Associate ☁️🚀 passionate about building scalable, secure, real-world cloud systems.<br>
+
+Cloud + Backend engineer who enjoys turning ideas into production-ready applications ⚙️🔥<br>
+
+Hands-on with AWS (EC2, Lambda, DynamoDB, IAM) and modern JS stacks like Node.js & Next.js 💻✨<br>
+
+Love designing serverless architectures and clean REST APIs that actually perform under load 📈⚡<br>
+
+CI/CD, Docker, monitoring, and security are not “extras” for me — they’re default mode 🛠️🔐<br>
+
+I blend Cloud, DevOps, and a bit of AI to build systems that are smart, efficient, and built to scale 🤖☁️<br>
+
+Always learning, always shipping, always optimizing 🚀📦<br>
 
 
 ## 🌐 Socials:
